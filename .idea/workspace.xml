@@ -23,9 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bcef0c1-d296-4a2d-abfb-2f5251c7314d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/PairWithSumX/src/PairWithSumX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/FlippedBitsConvertAtoB/src/FlippedBitsFromAtoB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Arrays/Arrays.iml" afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/Arrays/RandomReorder/src/RandomReorder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="22" selection-end-column="21" />
+              <caret line="22" column="21" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PairWithSumX.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PairWithSumX.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arrays/PairWithSumX/src/PairWithSumX.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
@@ -69,6 +70,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlippedBitsFromAtoB.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BitManipulation/FlippedBitsConvertAtoB/src/FlippedBitsFromAtoB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -110,6 +121,7 @@
         <option value="$PROJECT_DIR$/DynamicProgramming/TowerHopper/src/TowerHopper2.java" />
         <option value="$PROJECT_DIR$/DynamicProgramming/TowerHopper/src/TowerHopperDP.java" />
         <option value="$PROJECT_DIR$/Arrays/PairWithSumX/src/PairWithSumX.java" />
+        <option value="$PROJECT_DIR$/BitManipulation/FlippedBitsConvertAtoB/src/FlippedBitsFromAtoB.java" />
       </list>
     </option>
   </component>
@@ -145,13 +157,13 @@
             <path>
               <item name="DataStructuresAndAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="BitManipulation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructuresAndAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="PairWithSumX" type="462c0819:PsiDirectoryNode" />
+              <item name="BitManipulation" type="462c0819:PsiDirectoryNode" />
+              <item name="FlippedBitsConvertAtoB" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,12 +181,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Study Matter\JavaProjectsIntelliJ\DataStructuresAndAlgorithms\Arrays" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Study Matter\JavaProjectsIntelliJ\DataStructuresAndAlgorithms\BitManipulation\FlippedBitsConvertAtoB" />
       <recent name="E:\Study Matter\JavaProjectsIntelliJ\DataStructuresAndAlgorithms\DynamicProgramming\TowerHopper" />
       <recent name="E:\Study Matter\JavaProjectsIntelliJ\DataStructuresAndAlgorithms\Arrays\RandomReorder" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study Matter\JavaProjectsIntelliJ\DataStructuresAndAlgorithms\Arrays" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -189,7 +202,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PairWithSumX">
+  <component name="RunManager" selected="Application.FlippedBitsFromAtoB">
+    <configuration name="FlippedBitsFromAtoB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="FlippedBitsFromAtoB" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BitManipulation" />
+      <envs />
+    </configuration>
     <configuration name="PairWithSumX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="PairWithSumX" />
@@ -326,18 +353,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.RandomReorder" />
       <item index="1" class="java.lang.String" itemvalue="Application.TowerHopperRecursive" />
       <item index="2" class="java.lang.String" itemvalue="Application.TowerHopperDP" />
       <item index="3" class="java.lang.String" itemvalue="Application.PairWithSumX" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FlippedBitsFromAtoB" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.PairWithSumX" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TowerHopperRecursive" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TowerHopperDP" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RandomReorder" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.FlippedBitsFromAtoB" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PairWithSumX" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TowerHopperRecursive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TowerHopperDP" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RandomReorder" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +483,7 @@
     <entry file="file://$PROJECT_DIR$/Arrays/RandomReorder/src/RandomReorder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="22" selection-end-column="21" />
+          <caret line="22" column="21" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="22" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -468,6 +497,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/FlippedBitsConvertAtoB/src/FlippedBitsFromAtoB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
